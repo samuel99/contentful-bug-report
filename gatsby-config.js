@@ -11,6 +11,7 @@ module.exports = {
       options: {
         spaceId: "spaceID",
         accessToken: "accessToken",
+        useNameForId: false,
       },
     },
   ],
